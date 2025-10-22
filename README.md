@@ -23,6 +23,7 @@ This project leverages a **Modern Data Stack** approach to ensure scalability, r
 | **Databricks** | Central platform for storing and processing the review data. |
 | **dbt (Data Build Tool)** | Handles transformations, cleaning, and data modeling. |
 | **Power BI** | Visualizes results and presents key insights to stakeholders. |
+| **Airflow** | orchestrate and schedule the entire data pipeline. |
 | **GitHub** | Version control and documentation for the entire project. |
 
 ---
