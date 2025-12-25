@@ -1,3 +1,4 @@
 python-dotenv
 serpapi
 pandas
+numpy
